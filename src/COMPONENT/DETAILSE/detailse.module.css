@@ -1,0 +1,32 @@
+
+.contant{
+flex-wrap: wrap;
+
+}
+
+.contant h5{
+    
+    background: #00d30b;
+    position: relative;
+}
+
+.contant h5::after{
+    content: "";
+    position: absolute;
+    left: -10px;
+    top: 50%;
+    transform: translateY(-50%);
+    border-bottom: 9px solid transparent;
+    border-top: 9px solid transparent;
+    border-left: 9px solid rgb(255, 0, 0);
+    border-right: 9px solid transparent;
+    
+}
+
+.row{
+    color: #00d30b;
+}
+
+.back{
+    cursor: pointer;
+}

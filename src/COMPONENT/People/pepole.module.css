@@ -1,0 +1,46 @@
+
+
+.ratingSection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .innar{
+        overflow: hidden;
+  }
+
+  figure {
+    transition: 0.7s all;
+    overflow: hidden;
+  }
+
+  .innar figure img{
+    transition: 0.7s all;
+  }
+
+  .innar figure:hover img{
+    transform: scale(1.1);
+  }
+  
+  .rating {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: #333;
+    /* padding: 20px; */
+    border-radius: 15px;
+    box-shadow: inset 0px 3px 6px rgba(0, 0, 0, 0.3);
+  }
+  
+  /* قيمة التقييم */
+  .ratingValue {
+    font-weight: bold;
+    color: #ffd700;
+    margin-bottom: 10px;
+  }
+  
+
+  
