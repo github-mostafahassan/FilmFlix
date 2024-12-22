@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/FilmFlix/static/css/main.88cc0f5b.css",
+    "main.js": "/FilmFlix/static/js/main.d6ab353c.js",
+    "static/js/755.56cc10c8.chunk.js": "/FilmFlix/static/js/755.56cc10c8.chunk.js",
+    "static/css/724.c257743b.chunk.css": "/FilmFlix/static/css/724.c257743b.chunk.css",
+    "static/js/724.e20df909.chunk.js": "/FilmFlix/static/js/724.e20df909.chunk.js",
+    "static/js/453.1ea0f0cd.chunk.js": "/FilmFlix/static/js/453.1ea0f0cd.chunk.js",
+    "static/media/fa-solid-900.ttf": "/FilmFlix/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/FilmFlix/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/FilmFlix/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/FilmFlix/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/FilmFlix/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/FilmFlix/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/FilmFlix/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/FilmFlix/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "static/media/slick.svg": "/FilmFlix/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/FilmFlix/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/FilmFlix/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/FilmFlix/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/FilmFlix/index.html",
+    "main.88cc0f5b.css.map": "/FilmFlix/static/css/main.88cc0f5b.css.map",
+    "main.d6ab353c.js.map": "/FilmFlix/static/js/main.d6ab353c.js.map",
+    "755.56cc10c8.chunk.js.map": "/FilmFlix/static/js/755.56cc10c8.chunk.js.map",
+    "724.c257743b.chunk.css.map": "/FilmFlix/static/css/724.c257743b.chunk.css.map",
+    "724.e20df909.chunk.js.map": "/FilmFlix/static/js/724.e20df909.chunk.js.map",
+    "453.1ea0f0cd.chunk.js.map": "/FilmFlix/static/js/453.1ea0f0cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88cc0f5b.css",
+    "static/js/main.d6ab353c.js"
+  ]
+}
